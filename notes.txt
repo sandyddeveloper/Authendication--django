@@ -1,0 +1,21 @@
+install venv in the folder 
+then activate that venv
+install django
+create django project
+cd and go into the project 
+create django app
+--------------------------------------------------------------------------------------------------------------------
+add the app name in the settings.py
+and add template in settings.py
+add urls in project folder 
+create new urls in app folder
+------------------------------------------BASIC STUFF OVER-----------------------------------------------------------
+create new html files 
+add some logic codes in views.py
+then i have implemented the urls of pages in urls.py
+-------------------------------------------frontend part over-----------------------------------------------------------
+on the wampserver 
+create new mysql database
+include the Db in django by setting user, password,port,database_name
+then migate the database 
+------------------------------------------backend part over-----------------------------------------------------------
